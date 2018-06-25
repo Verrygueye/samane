@@ -1,0 +1,83 @@
+# Ce fichier viminfo a été généré par Vim 8.0.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historique ligne de commande (chronologie décroissante) :
+:wq
+|2,0,1527082949,,"wq"
+:q
+|2,0,1527082256,,"q"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+""-	CHAR	0
+	n
+|3,1,36,0,1,0,1527082925,"n"
+
+# Marques dans le fichier :
+'0  152  18  /etc/php/7.1/apache2/php.ini
+|4,48,152,18,1527082949,"/etc/php/7.1/apache2/php.ini"
+'1  230  10  /etc/apache2/apache2.conf
+|4,49,230,10,1527082584,"/etc/apache2/apache2.conf"
+'2  227  0  /etc/apache2/apache2.conf
+|4,50,227,0,1527082256,"/etc/apache2/apache2.conf"
+'3  227  0  /etc/apache2/apache2.conf
+|4,51,227,0,1527082256,"/etc/apache2/apache2.conf"
+
+# Liste de sauts (le plus récent en premier) :
+-'  152  18  /etc/php/7.1/apache2/php.ini
+|4,39,152,18,1527082949,"/etc/php/7.1/apache2/php.ini"
+-'  1  0  /etc/php/7.1/apache2/php.ini
+|4,39,1,0,1527082846,"/etc/php/7.1/apache2/php.ini"
+-'  230  10  /etc/apache2/apache2.conf
+|4,39,230,10,1527082584,"/etc/apache2/apache2.conf"
+-'  230  10  /etc/apache2/apache2.conf
+|4,39,230,10,1527082584,"/etc/apache2/apache2.conf"
+-'  227  0  /etc/apache2/apache2.conf
+|4,39,227,0,1527082545,"/etc/apache2/apache2.conf"
+-'  227  0  /etc/apache2/apache2.conf
+|4,39,227,0,1527082545,"/etc/apache2/apache2.conf"
+-'  227  0  /etc/apache2/apache2.conf
+|4,39,227,0,1527082256,"/etc/apache2/apache2.conf"
+-'  227  0  /etc/apache2/apache2.conf
+|4,39,227,0,1527082256,"/etc/apache2/apache2.conf"
+-'  1  0  /etc/apache2/apache2.conf
+|4,39,1,0,1527082203,"/etc/apache2/apache2.conf"
+-'  1  0  /etc/apache2/apache2.conf
+|4,39,1,0,1527082203,"/etc/apache2/apache2.conf"
+-'  1  0  /etc/apache2/apache2.conf
+|4,39,1,0,1527082203,"/etc/apache2/apache2.conf"
+-'  1  0  /etc/apache2/apache2.conf
+|4,39,1,0,1527082203,"/etc/apache2/apache2.conf"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> /etc/php/7.1/apache2/php.ini
+	*	1527082946	0
+	"	152	18
+	^	152	19
+	.	152	18
+	+	152	17
+	+	152	18
+
+> /etc/apache2/apache2.conf
+	*	1527082581	0
+	"	230	10
+	^	230	11
+	.	230	0
+	+	230	0
